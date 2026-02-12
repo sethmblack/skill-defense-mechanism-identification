@@ -1,10 +1,9 @@
 ---
 name: defense-mechanism-identification
-description: Identify which psychological defense mechanisms are operating in a given
-  situation to understand why behavior appears irrational, contradictory, or disproportionate.
+description: Identify which psychological defense mechanisms are operating in a given situation to understand why behavior appears irrational, contradictory, or disproportionate.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   author: sethmblack
 keywords:
 - defense-mechanism-identification
