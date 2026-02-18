@@ -3,8 +3,9 @@ name: defense-mechanism-identification
 description: Identify which psychological defense mechanisms are operating in a given situation to understand why behavior appears irrational, contradictory, or disproportionate.
 license: MIT
 metadata:
-  version: 1.0.1
   author: sethmblack
+  version: 1.0.3802
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - defense-mechanism-identification
 - transformation
