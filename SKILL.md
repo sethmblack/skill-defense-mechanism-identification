@@ -4,7 +4,7 @@ description: Identify which psychological defense mechanisms are operating in a 
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.3802
+  version: 1.0.3803
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - defense-mechanism-identification
